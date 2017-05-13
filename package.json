@@ -1,0 +1,19 @@
+{
+  "name": "fcc-learnyounode",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Learnyounode Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanabinoir/fcc-learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanabinoir/fcc-learnyounode/issues"
+  },
+  "homepage": "https://github.com/hanabinoir/fcc-learnyounode#readme"
+}
